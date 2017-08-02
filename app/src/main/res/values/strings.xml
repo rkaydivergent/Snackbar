@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Snack Bar!</string>
+    <string name="button_label_top">Snack Bar</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_button_toast">Hello Snack Bar!</string>
+    <string name="action_settings">Settings</string>
+</resources>
